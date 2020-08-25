@@ -6,6 +6,10 @@ See a hosted version of the [demo](https://rl6zb.sse.codesandbox.io/) in test mo
 
 <img src="./readme.png" alt="Preview Of Site" align="center">
 
+## Inspiration 
+
+[Stripe Press](https://press.stripe.com/)
+
 ## Features
 
 This sample consists of a `client` in React and a `server` piece available in 5 common languages.

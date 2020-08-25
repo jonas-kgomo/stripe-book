@@ -15,14 +15,12 @@ export default function App() {
     <div className="App">
       <div className="sr-book">
          <img src="/broken.png" alt="book"/>
+         
       </div>
       <div className="sr-root">
       
         <div className="sr-main">
-         {/*  <header className="sr-header">
-            <div className="sr-header__logo" />
-          </header> */}
-
+        
           
           <Elements stripe={stripePromise}>
             <CheckoutForm />
@@ -59,6 +57,10 @@ export default function App() {
         </div>
       </div>
       {/* <DemoText /> */}
+      <div className="desc"> <b style={{color:'#23123', margin:'24px'}}> The Broken Link </b>
+      How the internet is highly dependent on copacetic groups and intermediaries, and
+            sometimes serves as a public good
+         </div>
     </div>
   );
 }
