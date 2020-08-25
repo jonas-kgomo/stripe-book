@@ -52,7 +52,9 @@
   justify-content: center;
   font-size-adjust: var(--accent-color);
   margin: auto;
+  cursor:  url('./fig.svg');
 }
+
 
 @media (max-width: 720px) {
   .sample-info {
