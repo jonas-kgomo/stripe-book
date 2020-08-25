@@ -18,7 +18,7 @@ export default function App() {
 
          <a  className="book-container" href="thebrokenlink.now.sh/"  target="_blank"  rel="noreferrer noopener">
   <div className="book">
-    <img alt="The Broken Link - Jonas" src="/broken.png" />
+    <img alt="The Broken Link - Jonas" src="/file.png" />
   </div>
 </a>
       </div>
