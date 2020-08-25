@@ -14,8 +14,13 @@ export default function App() {
   return (
     <div className="App">
       <div className="sr-book">
-         <img src="/broken.png" alt="book"/>
-         
+         {/* <img src="/broken.png" alt="book"/> */}
+
+         <a  className="book-container" href="thebrokenlink.now.sh/"  target="_blank"  rel="noreferrer noopener">
+  <div className="book">
+    <img alt="The Broken Link - Jonas" src="/broken.png" />
+  </div>
+</a>
       </div>
       <div className="sr-root">
       
